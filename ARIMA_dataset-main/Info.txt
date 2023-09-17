@@ -1,0 +1,14 @@
+youtube link: https://www.youtube.com/watch?v=_qv_7lEuiZg
+
+youtubetoipc: ARIMA in python. Best way to Identify p d q. Time Serie Forecasting. With Example. Free Notes.
+
+channelname: Paramita 
+
+
+in the description.
+
+
+ARIMA in python. Best way to Identify p d q. All different ways to identify pdq Time Serie Forecasting. With Example. Free Notes on ARIMA. Practice dataset.
+
+github link for Notes: https://github.com/paramitadas1/ARIMA...
+github link for practice data.
