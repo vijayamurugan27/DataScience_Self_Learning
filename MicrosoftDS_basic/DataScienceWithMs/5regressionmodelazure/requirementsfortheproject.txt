@@ -1,0 +1,7 @@
+
+for slides
+https://pamelafox.github.io/regression-model-azure-demo/notebook/#/
+
+
+for git-hub repo
+https://github.com/pamelafox/regression-model-azure-demo
